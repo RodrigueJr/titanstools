@@ -3,7 +3,7 @@ languageCode = "fr-fr"
 title = "Titans Tools"
 theme = "slate"
 
-publishDir = "docs"
+publishDir = "public"
 
 [ params ]
 BackgroundImages =["titans3.jpg"]
