@@ -1,0 +1,150 @@
+tiles:
+
+-
+  name: "Ariane (bientot 😉)"
+  url: "https://reseau.prodemial.fr/group/cosmos/ariane"
+  img: "logos/ariane.png"
+  tags: ["favoris"]
+-
+  name: "Prodemial"
+  url: "https://reseau.prodemial.fr/"
+  img: "logos/prodemial.png"
+  tags: ["favoris"]
+-
+  name: "Sirius"
+  url: "https://reseau.prodemial.fr/siriius/#/home"
+  img: "logos/siruis.png"
+  txt_color: "#ffffff"
+  bg_color: "#ffffff"
+  tags: ["favoris"]
+-
+  name: "Drive"
+  url: "https://drive.google.com/drive/u/1/folders/1dpBenwNl9bex4CWMqryB_F8AoqG_gHxa"
+  img: "logos/drive.png"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["titans"]
+-
+  name: "Trello"
+  url: "https://trello.com/b/lcUgmb25/cgpi-on-board-titans"
+  img: "logos/trello.png"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["titans"]
+-
+  name: "Immoshop"
+  url: "https://immoshop.stellium.fr/"
+  img: "logos/immoshop.png"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["immobilier"]
+  
+-
+  name: "Store"
+  url: "https://immoshop.stellium.fr/home?page=home&mode=STORE#page-content"
+  img: "logos/store.png"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["immobilier"]
+
+-
+  name: "PickStell 2.0"
+  url: "https://immobilier.stellium.fr/page/picking"
+  img: "logos/pickstell.png"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["immobilier"]
+
+-
+  name: "Colocataire"
+  url: "https://www.colocatere.com/fr/partenaire/connexion"
+  img: "logos/colocataire.webp"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["immobilier"]
+
+-
+  name: "Stellium Placement"
+  url: "https://reseau.prodemial.fr/extranet-stellium-placement/"
+  img: "logos/stelliumplacement.svg"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["av"]
+-
+  name: "Cristalliance Avenir"
+  url: "https://portal.oriadys.fr/web/stellium-courtage"
+  img: "logos/vie-plus.jpg"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["av"]
+-
+  name: "Cristalliance Evoluvie"
+  url: "https://stellium.avepargne.fr/perte?p_p_id=58&p_p_lifecycle=0&_58_redirect=%2Fchoix-souscription-cristalliance-evoluvie"
+  img: "logos/evoluvie.png"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["av"]
+-
+  name: "Serinipiere"
+  url: "https://auth.primonial.fr/auth/realms/REALM-PRIMONIAL-CGPI/protocol/openid-connect/auth?client_id=api-hub&redirect_uri=https%3A%2F%2Fpartenaires.primonial.fr%2F%23%2F&state=86573ce4-c548-44e6-8527-f46eddd5ca40&response_mode=fragment&response_type=code&scope=openid&nonce=fbbc4aa0-b1c0-4e47-8cbe-6dc9b08e7a8f"
+  img: "logos/primonial.png"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["av"]
+-
+  name: "ODDO"
+  url: "https://partenaires-omnium.oddo-bhf.com/Authentification/Login_Partenaires_OMN.aspx?ReturnUrl=%2f"
+  img: "logos/ODDO.jpg"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["av"]
+  
+-
+  name: "ERES"
+  url: "https://extranet.eres-group.com/user/login"
+  img: "logos/eres.png"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["av"]
+-
+  name: "FISY (Bientôt 😉)"
+  url: "https://reseau.prodemial.fr/simulation-financement"
+  img: "logos/fisy.png"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["agregateur"]
+-
+  name: "Ginkgo"
+  url: "https://ginkgo.regane.eu/LoginPage.aspx?ReturnUrl=%2f"
+  img: "logos/ginkgo.png"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["agregateur"]
+-
+  name: "Opticap"
+  url: "http://assurance-vie-stellium.harvest.fr/opc/opc/enter;jsessionid=984AD8737EB3A5C14B5B6CB45F7F1166"
+  img: "logos/opticap.png"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["agregateur"]
+-
+  name: "O2S"
+  url: "https://auth.harvest.fr/auth/realms/O2S/protocol/openid-connect/auth?client_id=o2s-app&state=5b43860a6e6049e2e6cf1772abf0c04c9cd526230046bb26a9ef5b288aee8486&redirect_uri=https%3A%2F%2Fwww.office2s.com%2Foffice2s%2F&response_type=code"
+  img: "logos/o2s.png"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["agregateur"]
+-
+  name: "UniverSign"
+  url: "https://app.universign.com/fr/apps/"
+  img: "logos/universign.png"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["favoris"]
+-
+  name: "E-PBS"
+  url: "https://www.formation.prodemial-business-school.com/my/"
+  img: "logos/epbs.svg"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["favoris"]
