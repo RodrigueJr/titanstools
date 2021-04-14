@@ -1,0 +1,24 @@
+{
+    "id": "D6F5B9F0",
+    "path": "~/Projets/titanstools/config.toml",
+    "project_path": "config.toml",
+    "type": "toml",
+    "hash": "3798528005",
+    "contents": "",
+    "dirty": false,
+    "created": 1618394677252.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "cursorPosition": "5,20",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1618394687,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1618394687211,
+    "read_only": false,
+    "read_only_alternatives": []
+}

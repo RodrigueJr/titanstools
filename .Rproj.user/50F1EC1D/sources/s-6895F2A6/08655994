@@ -1,0 +1,23 @@
+{
+    "id": "08655994",
+    "path": null,
+    "project_path": null,
+    "type": "r_code_browser",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1618392648955.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "context": "package:blogdown:::install_hugo"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 150307637563490304,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1618392648955,
+    "read_only": false,
+    "read_only_alternatives": []
+}

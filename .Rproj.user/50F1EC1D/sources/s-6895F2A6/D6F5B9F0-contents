@@ -1,0 +1,35 @@
+baseURL = "titanstool.netlify.app"
+languageCode = "fr-fr"
+title = "Titans Tools"
+theme = "slate"
+
+publishDir = "public"
+
+[ params ]
+BackgroundImages =["titans3.jpg"]
+OpenLinksInNewWindow = true
+
+[[ params.nav ]]
+name = "Favoris"
+tag = "favoris"
+icon = "star"
+
+[[ params.nav ]]
+name = "Titans"
+tag = "titans"
+icon = "users"
+
+[[ params.nav ]]
+name = "Immobilier"
+tag = "immobilier"
+icon = "building"
+
+[[ params.nav ]]
+name = "AV"
+tag = "av"
+icon = "euro"
+
+[[ params.nav ]]
+name = "Agregateur"
+tag = "agregateur"
+icon = "balance-scale"
