@@ -148,7 +148,6 @@ tiles:
   bg_color: "#ffffff"
   txt_color: "#000000" 
   tags: ["favoris"]
-  
   -
   name: "Prodemial (Old)"
   url: "https://reseau.prodemial.fr/"
