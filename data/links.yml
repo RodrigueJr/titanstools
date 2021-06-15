@@ -6,9 +6,9 @@ tiles:
   img: "logos/ariane.png"
   tags: ["favoris"]
 -
-  name: "Prodemial"
-  url: "https://reseau.prodemial.fr/"
-  img: "logos/prodemial.png"
+  name: "My Prodemial"
+  url: "http://my.prodemial.fr/"
+  img: "logos/myprodemial.png"
   tags: ["favoris"]
 -
   name: "Sirius"
@@ -148,3 +148,8 @@ tiles:
   bg_color: "#ffffff"
   txt_color: "#000000" 
   tags: ["favoris"]
+  
+  -
+  name: "Prodemial (Old)"
+  url: "https://reseau.prodemial.fr/"
+  img: "logos/prodemial.png"
