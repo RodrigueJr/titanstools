@@ -149,6 +149,6 @@ tiles:
   txt_color: "#000000" 
   tags: ["favoris"]
 -
-  name: "Prodemial (Old)"
-  url: "https://reseau.prodemial.fr/"
-  img: "logos/prodemial.png"
+  name: "Inter Invest"
+  url: "https://www.inter-invest.fr/connexion"
+  img: "logos/logo_interinvest_white.svg"
