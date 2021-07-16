@@ -152,4 +152,4 @@ tiles:
   name: "Inter Invest"
   url: "https://www.inter-invest.fr/connexion"
   img: "logos/logo_interinvest_white.svg"
-   tags: ["finance"]
+  tags: ["finance"]
