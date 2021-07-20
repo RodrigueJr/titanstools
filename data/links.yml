@@ -93,7 +93,7 @@ tiles:
   tags: ["finance"]
 -
   name: "ODDO"
-  url: "https://partenaires-omnium.oddo-bhf.com/Authentification/Login_Partenaires_OMN.aspx?ReturnUrl=%2f"
+  url: "https://cgp-stellium.oddo-bhf.com/"
   img: "logos/ODDO.jpg"
   bg_color: "#ffffff"
   txt_color: "#000000"
