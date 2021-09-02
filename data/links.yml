@@ -153,3 +153,9 @@ tiles:
   url: "https://www.inter-invest.fr/connexion"
   img: "logos/logo_interinvest_white.svg"
   tags: ["finance"]
+-
+  name: "PERL"
+  url: "https://www.perlpatrimoine.com/login?from=%2F"
+  img: "logos/perl.svg"
+  tags: ["immobilier"]  
+  
