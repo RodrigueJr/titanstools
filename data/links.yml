@@ -4,6 +4,7 @@ tiles:
   name: "MindMaster"
   url: "https://www.mindmaster.fr/"
   img: "logos/cerveau-mindmaster.webp"
+  bg_color: "#181831"
   tags: ["favoris"] 
 -
   name: "Ariane (bientot 😉)"
