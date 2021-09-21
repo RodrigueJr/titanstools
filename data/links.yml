@@ -1,6 +1,11 @@
 tiles:
 
 -
+  name: "MindMaster"
+  url: "https://www.mindmaster.fr/"
+  img: "logos/cerveau-mindmaster.webp"
+  tags: ["favoris"] 
+-
   name: "Ariane (bientot 😉)"
   url: "https://reseau.prodemial.fr/group/cosmos/ariane"
   img: "logos/ariane.png"
