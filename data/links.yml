@@ -113,8 +113,8 @@ tiles:
   txt_color: "#000000"
   tags: ["finance"]
 -
-  name: "FISY (Bientôt 😉)"
-  url: "https://reseau.prodemial.fr/simulation-financement"
+  name: "FISY"
+  url: "https://financement.stellium.fr/"
   img: "logos/fisy.png"
   bg_color: "#ffffff"
   txt_color: "#000000"
