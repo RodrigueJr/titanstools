@@ -1,5 +1,9 @@
 tiles:
-
+-
+  name: "Forum du patrimoine"
+  url: "https://reseau.prodemial.fr/group/cosmos/page-evenements"
+  img: "logos/fdp.png"
+  tags: ["favoris"]
 -
   name: "Ariane (bientot 😉)"
   url: "https://reseau.prodemial.fr/group/cosmos/ariane"
