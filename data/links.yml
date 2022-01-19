@@ -169,6 +169,11 @@ tiles:
   tags: ["immobilier"]  
 -
   name: "URBAN PREMIUM"
-  url: "http://www.urban-premium.com/professionnels/devenir-partenaires/  "
+  url: "http://www.urban-premium.com/professionnels/devenir-partenaires/"
   img: "logos/urbanpremium.png"
+  tags: ["immobilier"]  
+-
+  name: "DIGITAL INSURE"
+  url: "https://go.multinet-inside.fr/digitalinsure-oauth2server/login"
+  img: "logos/digitalInsure.png"
   tags: ["immobilier"]  
