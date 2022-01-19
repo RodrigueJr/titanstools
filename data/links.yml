@@ -167,5 +167,8 @@ tiles:
   url: "https://normacapital.mipise.fr/fr/users/sign_in"
   img: "logos/normacapital.jpg"
   tags: ["immobilier"]  
-
-  
+-
+  name: "URBAN PREMIUM"
+  url: "http://www.urban-premium.com/professionnels/devenir-partenaires/  "
+  img: "logos/urbanpremium.png"
+  tags: ["immobilier"]  
