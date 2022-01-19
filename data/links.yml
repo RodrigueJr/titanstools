@@ -177,3 +177,8 @@ tiles:
   url: "https://go.multinet-inside.fr/digitalinsure-oauth2server/login"
   img: "logos/digitalInsure.png"
   tags: ["immobilier"]  
+-
+  name: "Atland Voisin"
+  url: "https://extranet.atland-voisin.com/login"
+  img: "logos/altanvoisin.png"
+  tags: ["immobilier"] 
