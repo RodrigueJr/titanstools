@@ -1,5 +1,15 @@
 tiles:
 -
+  name: "Optimiz AV(New!!!!)"
+  url: "https://simulateurs.plpsoft.com/Stellium/assurancevie/"
+  img: "logos/optimiz_av.png"
+  tags: ["finance"]
+-
+  name: "Optimiz SCPI (New!!!!))"
+  url: "https://simulateurs.plpsoft.com/Stellium/scpi/"
+  img: "logos/optimiz_scpi.png"
+  tags: ["finance"]
+-
   name: "Ariane (bientot 😉)"
   url: "https://reseau.prodemial.fr/group/cosmos/ariane"
   img: "logos/ariane.png"
