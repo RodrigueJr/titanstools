@@ -1,20 +1,5 @@
 tiles:
 -
-  name: "Top Invest(New!!!!)"
-  url: "https://immoshop.stellium.fr/topinvest?page=topinvest"
-  img: "logos/topinvest.png"
-  tags: ["immobilier"]
--
-  name: "Optimiz AV(New!!!!)"
-  url: "https://simulateurs.plpsoft.com/Stellium/assurancevie/"
-  img: "logos/optimiz_av.png"
-  tags: ["finance"]
--
-  name: "Optimiz SCPI (New!!!!))"
-  url: "https://simulateurs.plpsoft.com/Stellium/scpi/"
-  img: "logos/optimiz_scpi.png"
-  tags: ["finance"]
--
   name: "Ariane"
   url: "https://my.prodemial.fr/investisseurs/ariane"
   img: "logos/ariane.svg"
@@ -127,6 +112,21 @@ tiles:
   bg_color: "#ffffff"
   txt_color: "#000000"
   tags: ["agregateur"]
+  -
+  name: "Top Invest"
+  url: "https://immoshop.stellium.fr/topinvest?page=topinvest"
+  img: "logos/topinvest.png"
+  tags: ["immobilier"]
+-
+  name: "Optimiz AV"
+  url: "https://simulateurs.plpsoft.com/Stellium/assurancevie/"
+  img: "logos/optimiz_av.png"
+  tags: ["finance"]
+-
+  name: "Optimiz SCPI"
+  url: "https://simulateurs.plpsoft.com/Stellium/scpi/"
+  img: "logos/optimiz_scpi.png"
+  tags: ["finance"]
 -
   name: "Ginkgo"
   url: "https://ginkgo.regane.eu/LoginPage.aspx?ReturnUrl=%2f"
@@ -142,7 +142,7 @@ tiles:
   txt_color: "#000000"
   tags: ["agregateur"]
 -
-  name: "O2S"
+  name: "O2S !! FIN 30 JUIN Récupérez vos profils clients!!"
   url: "https://auth.harvest.fr/auth/realms/O2S/protocol/openid-connect/auth?client_id=o2s-app&state=5b43860a6e6049e2e6cf1772abf0c04c9cd526230046bb26a9ef5b288aee8486&redirect_uri=https%3A%2F%2Fwww.office2s.com%2Foffice2s%2F&response_type=code"
   img: "logos/o2s.png"
   bg_color: "#ffffff"
