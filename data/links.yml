@@ -10,6 +10,11 @@ tiles:
   img: "logos/ariane.svg"
   tags: ["favoris"]
 -
+  name: "JUMP"
+  url: " https://jump.prodemial.fr/"
+  img: "logos/jump.png"
+  tags: ["favoris"]
+-
   name: "Sirius"
   url: "https://reseau.prodemial.fr/siriius/#/home"
   img: "logos/siruis.png"
