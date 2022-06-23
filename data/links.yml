@@ -11,7 +11,7 @@ tiles:
   tags: ["favoris"]
 -
   name: "JUMP"
-  url: " https://jump.prodemial.fr/"
+  url: "https://jump.prodemial.fr/"
   img: "logos/jump.png"
   tags: ["favoris"]
 -
