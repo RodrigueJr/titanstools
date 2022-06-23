@@ -112,7 +112,7 @@ tiles:
   bg_color: "#ffffff"
   txt_color: "#000000"
   tags: ["agregateur"]
-  -
+-
   name: "Top Invest"
   url: "https://immoshop.stellium.fr/topinvest?page=topinvest"
   img: "logos/topinvest.png"
