@@ -1,13 +1,14 @@
 tiles:
--
-  name: "Ariane"
-  url: "https://my.prodemial.fr/investisseurs/ariane"
-  img: "logos/ariane.svg"
-  tags: ["favoris"]
+
 -
   name: "My Prodemial"
   url: "http://my.prodemial.fr/"
   img: "logos/myprodemial.png"
+  tags: ["favoris"]
+-
+  name: "Ariane"
+  url: "https://my.prodemial.fr/investisseurs/ariane"
+  img: "logos/ariane.svg"
   tags: ["favoris"]
 -
   name: "Sirius"
@@ -142,7 +143,7 @@ tiles:
   txt_color: "#000000"
   tags: ["agregateur"]
 -
-  name: "O2S !! FIN 30 JUIN Récupérez vos profils clients!!"
+  name: "O2S !!FIN 30 JUIN!!"
   url: "https://auth.harvest.fr/auth/realms/O2S/protocol/openid-connect/auth?client_id=o2s-app&state=5b43860a6e6049e2e6cf1772abf0c04c9cd526230046bb26a9ef5b288aee8486&redirect_uri=https%3A%2F%2Fwww.office2s.com%2Foffice2s%2F&response_type=code"
   img: "logos/o2s.png"
   bg_color: "#ffffff"
