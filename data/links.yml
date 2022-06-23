@@ -15,9 +15,9 @@ tiles:
   img: "logos/optimiz_scpi.png"
   tags: ["finance"]
 -
-  name: "Ariane (bientot 😉)"
-  url: "https://reseau.prodemial.fr/group/cosmos/ariane"
-  img: "logos/ariane.png"
+  name: "Ariane"
+  url: "https://my.prodemial.fr/investisseurs/ariane"
+  img: "logos/ariane.svg"
   tags: ["favoris"]
 -
   name: "My Prodemial"
