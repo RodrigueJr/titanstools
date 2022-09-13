@@ -140,7 +140,7 @@ tiles:
   tags: ["finance"]
 -
   name: "Optimiz PER"
-  url: "  https://simulateurs.plpsoft.com/Stellium/per/"
+  url: "https://simulateurs.plpsoft.com/Stellium/per/"
   img: "logos/OPTIMIZ_PER.png"
   tags: ["finance"]
 -
