@@ -139,6 +139,11 @@ tiles:
   img: "logos/optimiz_scpi.png"
   tags: ["finance"]
 -
+  name: "Optimiz PER"
+  url: "  https://simulateurs.plpsoft.com/Stellium/per/"
+  img: "logos/OPTIMIZ_PER.png"
+  tags: ["finance"]
+-
   name: "Ginkgo"
   url: "https://ginkgo.regane.eu/LoginPage.aspx?ReturnUrl=%2f"
   img: "logos/ginkgo.png"
