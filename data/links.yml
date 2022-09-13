@@ -178,7 +178,7 @@ tiles:
   tags: ["finance"]
 -
   name: "PERL"
-  url: "https://www.perlpatrimoine.com/login?from=%2F"
+  url: "https://www.perl.fr/"
   img: "logos/perl.svg"
   tags: ["immobilier"]  
 -
