@@ -1,7 +1,7 @@
 tiles:
 
 -
-  name: "Plus que 80 Places"
+  name: "Complet"
   url: "https://www.mindmaster.fr/"
   img: "logos/cerveau-mindmaster.webp"
   tags: ["favoris"]
