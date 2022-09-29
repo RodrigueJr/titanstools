@@ -13,19 +13,12 @@ tiles:
 -
   name: "Ariane"
   url: "https://my.prodemial.fr/investisseurs/ariane"
-  img: "logos/ariane.svg"
+  img: "logos/ariane.png"
   tags: ["favoris"]
 -
   name: "JUMP"
   url: "https://jump.prodemial.fr/"
   img: "logos/jump.png"
-  tags: ["favoris"]
--
-  name: "Sirius"
-  url: "https://reseau.prodemial.fr/siriius/#/home"
-  img: "logos/siruis.png"
-  txt_color: "#ffffff"
-  bg_color: "#ffffff"
   tags: ["favoris"]
 -
   name: "Drive"
@@ -44,7 +37,7 @@ tiles:
 -
   name: "Immoshop"
   url: "https://immoshop.stellium.fr/"
-  img: "logos/immoshop.png"
+  img: "logos/stock.png"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["immobilier"]
@@ -60,7 +53,7 @@ tiles:
 -
   name: "PickStell 2.0"
   url: "https://immobilier.stellium.fr/page/picking"
-  img: "logos/pickstell.png"
+  img: "logos/picking.png"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["immobilier"]
@@ -119,7 +112,7 @@ tiles:
 -
   name: "FISY"
   url: "https://financement.stellium.fr/"
-  img: "logos/fisy.png"
+  img: "logos/logo_fisy.png"
   bg_color: "#ffffff"
   txt_color: "#000000"
   tags: ["agregateur"]
@@ -167,7 +160,7 @@ tiles:
 -
   name: "E-PBS"
   url: "https://www.formation.prodemial-business-school.com/my/"
-  img: "logos/epbs.svg"
+  img: "logos/e-PBS.png"
   bg_color: "#ffffff"
   txt_color: "#000000" 
   tags: ["favoris"]
