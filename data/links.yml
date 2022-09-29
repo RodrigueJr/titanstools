@@ -8,7 +8,7 @@ tiles:
 -
   name: "My Prodemial"
   url: "http://my.prodemial.fr/"
-  img: "logos/prodemial.png"
+  img: "logos/myprodemial.png"
   tags: ["favoris"]
 -
   name: "Ariane"
