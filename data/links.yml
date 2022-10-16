@@ -1,10 +1,12 @@
 tiles:
 
 -
-  name: "Complet"
-  url: "https://www.mindmaster.fr/"
-  img: "logos/mindmaster2023.webp"
-  tags: ["favoris"]
+  name: "Conférences LGH"
+  url: "https://docs.google.com/spreadsheets/d/1eWjfwW64Kc3_nFLQ_ZhPFJd7ceHbgUcJLVOdGwJKONY/edit#gid=0"
+  img: "logos/LGH.jpeg"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["titans"] 
 -
   name: "My Prodemial"
   url: "http://my.prodemial.fr/"
@@ -34,14 +36,6 @@ tiles:
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["titans"]
- 
--
-  name: "Conférences LGH"
-  url: "https://docs.google.com/spreadsheets/d/1eWjfwW64Kc3_nFLQ_ZhPFJd7ceHbgUcJLVOdGwJKONY/edit#gid=0"
-  img: "logos/LGH.jpeg"
-  bg_color: "#ffffff"
-  txt_color: "#ffffff"
-  tags: ["titans"] 
 -
   name: "Immoshop"
   url: "https://immoshop.stellium.fr/"
@@ -207,3 +201,8 @@ tiles:
   url: "https://go.eu.uniflowonline.com/"
   img: "logos/uniflowonline.png"
   tags: ["titans"] 
+ -
+  name: "Complet"
+  url: "https://www.mindmaster.fr/"
+  img: "logos/mindmaster2023.webp"
+  tags: ["favoris"]
