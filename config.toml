@@ -6,7 +6,7 @@ theme = "slate"
 publishDir = "public"
 
 [ params ]
-BackgroundImages =["titans3.jpg"]
+BackgroundImages =["stadedefrance.jpg"]
 OpenLinksInNewWindow = true
 
 [[ params.nav ]]
