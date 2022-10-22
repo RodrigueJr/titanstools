@@ -1,6 +1,13 @@
 tiles:
 
 -
+  name: "MasterPro"
+  url: "https://masterpro2023.netlify.app/"
+  img: "logos/masterpros.png"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["titans"] 
+-
   name: "Conférences LGH"
   url: "https://docs.google.com/spreadsheets/d/1eWjfwW64Kc3_nFLQ_ZhPFJd7ceHbgUcJLVOdGwJKONY/edit#gid=0"
   img: "logos/LGH.jpeg"
