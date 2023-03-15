@@ -8,13 +8,6 @@ tiles:
   txt_color: "#ffffff"
   tags: ["titans"] 
 -
-  name: "Conférences LGH"
-  url: "https://docs.google.com/spreadsheets/d/1eWjfwW64Kc3_nFLQ_ZhPFJd7ceHbgUcJLVOdGwJKONY/edit#gid=0"
-  img: "logos/LGH.jpeg"
-  bg_color: "#ffffff"
-  txt_color: "#ffffff"
-  tags: ["titans"] 
--
   name: "My Prodemial"
   url: "http://my.prodemial.fr/"
   img: "logos/myprodemial.png"
@@ -204,9 +197,21 @@ tiles:
   img: "logos/altanvoisin.png"
   tags: ["immobilier"] 
 -
+  name: "Agenda Pro"
+  url: "  https://www.linscription.com/pro/agendapro.php?ticket=ST-2116686-2TS-krN8YQqUFnolV429i9AWnpQ-auth.prodemial.fr"
+  img: "logos/agencepro.png"
+  tags: ["favoris"] 
+-
   name: "Impression SPACES"
   url: "https://go.eu.uniflowonline.com/"
   img: "logos/uniflowonline.png"
+  tags: ["titans"]  
+-
+  name: "Conférences LGH"
+  url: "https://docs.google.com/spreadsheets/d/1eWjfwW64Kc3_nFLQ_ZhPFJd7ceHbgUcJLVOdGwJKONY/edit#gid=0"
+  img: "logos/LGH.jpeg"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
   tags: ["titans"] 
 -
   name: "Complet"
