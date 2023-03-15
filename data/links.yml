@@ -198,7 +198,7 @@ tiles:
   tags: ["immobilier"] 
 -
   name: "Agenda Pro"
-  url: "  https://www.linscription.com/pro/agendapro.php?ticket=ST-2116686-2TS-krN8YQqUFnolV429i9AWnpQ-auth.prodemial.fr"
+  url: "https://www.linscription.com/pro/agendapro.php?ticket=ST-2116686-2TS-krN8YQqUFnolV429i9AWnpQ-auth.prodemial.fr"
   img: "logos/agencepro.png"
   tags: ["favoris"] 
 -
