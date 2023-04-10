@@ -8,6 +8,11 @@ tiles:
   txt_color: "#ffffff"
   tags: ["titans"] 
 -
+  name: "Mindmaster 2024"
+  url: "https://www.mindmaster.fr/"
+  img: "logos/mindmaster2023.webp"
+  tags: ["favoris"]
+-
   name: "My Prodemial"
   url: "http://my.prodemial.fr/"
   img: "logos/myprodemial.png"
@@ -213,8 +218,4 @@ tiles:
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["titans"] 
--
-  name: "Complet"
-  url: "https://www.mindmaster.fr/"
-  img: "logos/mindmaster2023.webp"
-  tags: ["favoris"]
+
