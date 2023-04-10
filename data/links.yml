@@ -9,8 +9,8 @@ tiles:
   tags: ["titans"] 
 -
   name: "Mindmaster 2024"
-  url: "https://www.mindmaster.fr/"
-  img: "logos/cerveau-mindmaster.webp"
+  url: "https://www.billetweb.fr/mindmaster2024"
+  img: "logos/mindmaster2024.png"
   tags: ["favoris"]
 -
   name: "My Prodemial"
