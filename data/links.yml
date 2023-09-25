@@ -185,22 +185,27 @@ tiles:
   name: "NORMA CAPITAL"
   url: "https://normacapital.mipise.fr/fr/users/sign_in"
   img: "logos/normacapital.jpg"
-  tags: ["immobilier"]  
+  tags: ["finance"]  
 -
   name: "URBAN PREMIUM"
   url: "http://www.urban-premium.com/professionnels/devenir-partenaires/"
   img: "logos/urbanpremium.png"
-  tags: ["immobilier"]  
+  tags: ["finance"]  
 -
   name: "DIGITAL INSURE"
   url: "https://go.multinet-inside.fr/digitalinsure-oauth2server/login"
   img: "logos/digitalInsure.png"
-  tags: ["immobilier"]  
+  tags: ["finance"]  
 -
   name: "Atland Voisin"
   url: "https://extranet.atland-voisin.com/login"
   img: "logos/altanvoisin.png"
-  tags: ["immobilier"] 
+  tags: ["finance"] 
+-
+  name: "Nextage"
+  url: "https://nextstage.capitalventureapp.com/extranet/login.cv"
+  img: "logos/nextage.png"
+  tags: ["finance"] 
 -
   name: "Agenda Pro"
   url: "https://www.linscription.com/pro/agendapro.php?ticket=ST-2116686-2TS-krN8YQqUFnolV429i9AWnpQ-auth.prodemial.fr"
