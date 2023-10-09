@@ -1,12 +1,19 @@
 tiles:
 
 -
-  name: "MasterPro 2023"
-  url: "https://masterpro2023.netlify.app/"
-  img: "logos/masterpros.png"
+  name: "Finvestimmo"
+  url: "https://immobilier.stellium.fr/page/finvestimmo-la-renovation-sur-mesure"
+  img: "logos/finvestimmo.jpg"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
-  tags: ["titans"] 
+  tags: ["immobilier"] 
+-
+  name: "Servissimmo"
+  url: "https://immobilier.stellium.fr/page/servissimmo-lancien-en-residences-de-services"
+  img: "logos/servissimmo.jpg"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["immobilier"] 
 -
   name: "Mindmaster 2024"
   url: "https://www.billetweb.fr/mindmaster2024"
