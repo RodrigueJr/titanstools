@@ -151,6 +151,11 @@ tiles:
   img: "logos/OPTIMIZ_PER.png"
   tags: ["finance"]
 -
+  name: "Optimiz SUCCESSION"
+  url: "https://simulateurs.plpsoft.com/Stellium/succession/"
+  img: "logos/OPTIMIZ_SUCCESSION.png"
+  tags: ["finance"]
+-
   name: "Ginkgo"
   url: "https://ginkgo.regane.eu/LoginPage.aspx?ReturnUrl=%2f"
   img: "logos/ginkgo.png"
