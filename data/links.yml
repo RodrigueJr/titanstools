@@ -1,9 +1,23 @@
 tiles:
 
 -
-  name: "WhatIf-FullXP - Tarif Réduit"
+  name: "WHAT IF"
+  url: "https://www.whatif-france.fr/"
+  img: "logos/whatif1.webp"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["favoris"] 
+-
+  name: "FullXP - Tarif Réduit"
   url: "https://www.billetweb.fr/what-if-2-mars-2024&quick=5206013"
   img: "logos/whatiffxp.webp"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["favoris"] 
+-
+  name: "Solo- Tarif Réduit"
+  url: "https://www.billetweb.fr/what-if-2-mars-2024&quick=5205338"
+  img: "logos/whatif.webp"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["favoris"] 
