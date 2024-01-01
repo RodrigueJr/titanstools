@@ -1,6 +1,13 @@
 tiles:
 
 -
+  name: "WhatIf-FullXP - Tarif Réduit"
+  url: "https://www.billetweb.fr/what-if-2-mars-2024&quick=5206013"
+  img: "logos/whatiffxp.webp"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["favoris"] 
+-
   name: "Finvestimmo"
   url: "https://immobilier.stellium.fr/page/finvestimmo-la-renovation-sur-mesure"
   img: "logos/finvestimmo.jpg"
