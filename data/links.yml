@@ -17,7 +17,7 @@ tiles:
 -
   name: "Solo- Tarif Réduit"
   url: "https://www.billetweb.fr/what-if-2-mars-2024&quick=5205338"
-  img: "logos/whatif.webp"
+  img: "logos/whatif1.webp"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["favoris"] 
