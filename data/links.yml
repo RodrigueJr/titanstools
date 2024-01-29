@@ -110,7 +110,7 @@ tiles:
   tags: ["finance"]
 -
   name: "Cristalliance Avenir"
-  url: "https://portal.oriadys.fr/web/stellium-courtage"
+  url: "https://oriadys.suravenir.fr/web/partenaire/"
   img: "logos/vie-plus.jpg"
   bg_color: "#ffffff"
   txt_color: "#000000"
