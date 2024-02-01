@@ -7,34 +7,7 @@ tiles:
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["favoris"] 
--
-  name: "FullXP - Tarif Réduit"
-  url: "https://www.billetweb.fr/what-if-2-mars-2024&quick=5206013"
-  img: "logos/whatiffxp.webp"
-  bg_color: "#ffffff"
-  txt_color: "#ffffff"
-  tags: ["favoris"] 
--
-  name: "Solo- Tarif Réduit"
-  url: "https://www.billetweb.fr/what-if-2-mars-2024&quick=5205338"
-  img: "logos/whatif1.webp"
-  bg_color: "#ffffff"
-  txt_color: "#ffffff"
-  tags: ["favoris"] 
--
-  name: "Finvestimmo"
-  url: "https://immobilier.stellium.fr/page/finvestimmo-la-renovation-sur-mesure"
-  img: "logos/finvestimmo.jpg"
-  bg_color: "#ffffff"
-  txt_color: "#ffffff"
-  tags: ["immobilier"] 
--
-  name: "Servissimmo"
-  url: "https://immobilier.stellium.fr/page/servissimmo-lancien-en-residences-de-services"
-  img: "logos/servissimmo.jpg"
-  bg_color: "#ffffff"
-  txt_color: "#ffffff"
-  tags: ["immobilier"] 
+
 -
   name: "Mindmaster 2024"
   url: "https://www.billetweb.fr/mindmaster2024"
@@ -92,7 +65,20 @@ tiles:
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["immobilier"]
-
+-
+  name: "Finvestimmo"
+  url: "https://immobilier.stellium.fr/page/finvestimmo-la-renovation-sur-mesure"
+  img: "logos/finvestimmo.jpg"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["immobilier"] 
+-
+  name: "Servissimmo"
+  url: "https://immobilier.stellium.fr/page/servissimmo-lancien-en-residences-de-services"
+  img: "logos/servissimmo.jpg"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["immobilier"] 
 -
   name: "Colocataire"
   url: "https://www.colocatere.com/fr/partenaire/connexion"
