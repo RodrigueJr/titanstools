@@ -163,6 +163,11 @@ tiles:
   img: "logos/OPTIMIZ_SUCCESSION.png"
   tags: ["finance"]
 -
+  name: "Optimiz PORTFOLIO"
+  url: "  https://optimiz-portfolio.quantalys.com/Stellium"
+  img: "logos/Optimiz_Portfolio.png"
+  tags: ["finance"]
+-
   name: "Ginkgo"
   url: "https://ginkgo.regane.eu/LoginPage.aspx?ReturnUrl=%2f"
   img: "logos/ginkgo.png"
