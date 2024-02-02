@@ -164,7 +164,7 @@ tiles:
   tags: ["finance"]
 -
   name: "Optimiz PORTFOLIO"
-  url: "  https://optimiz-portfolio.quantalys.com/Stellium"
+  url: "https://optimiz-portfolio.quantalys.com/Stellium"
   img: "logos/Optimiz_Portfolio.png"
   tags: ["finance"]
 -
