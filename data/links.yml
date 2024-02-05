@@ -168,20 +168,6 @@ tiles:
   img: "logos/Optimiz_Portfolio.png"
   tags: ["finance"]
 -
-  name: "Ginkgo"
-  url: "https://ginkgo.regane.eu/LoginPage.aspx?ReturnUrl=%2f"
-  img: "logos/ginkgo.png"
-  bg_color: "#ffffff"
-  txt_color: "#000000"
-  tags: ["agregateur"]
--
-  name: "Opticap"
-  url: "http://assurance-vie-stellium.harvest.fr/opc/opc/enter;jsessionid=984AD8737EB3A5C14B5B6CB45F7F1166"
-  img: "logos/opticap.png"
-  bg_color: "#ffffff"
-  txt_color: "#000000"
-  tags: ["agregateur"]
--
   name: "UniverSign"
   url: "https://app.universign.com/fr/apps/"
   img: "logos/universign.png"
