@@ -197,6 +197,16 @@ tiles:
   img: "logos/normacapital.jpg"
   tags: ["finance"]  
 -
+  name: "Atland Voisin"
+  url: "https://extranet.atland-voisin.com/login"
+  img: "logos/altanvoisin.png"
+  tags: ["finance"] 
+-
+  name: "Alderan"
+  url: "https://falcon.alderan.fr/login"
+  img: "logos/alderan.png"
+  tags: ["finance"] 
+-
   name: "URBAN PREMIUM"
   url: "http://www.urban-premium.com/professionnels/devenir-partenaires/"
   img: "logos/urbanpremium.png"
@@ -206,11 +216,6 @@ tiles:
   url: "https://go.multinet-inside.fr/digitalinsure-oauth2server/login"
   img: "logos/digitalInsure.png"
   tags: ["finance"]  
--
-  name: "Atland Voisin"
-  url: "https://extranet.atland-voisin.com/login"
-  img: "logos/altanvoisin.png"
-  tags: ["finance"] 
 -
   name: "Nextage"
   url: "https://nextstage.capitalventureapp.com/extranet/login.cv"
