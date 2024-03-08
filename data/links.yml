@@ -1,12 +1,5 @@
 tiles:
 
--
-  name: "WHAT IF"
-  url: "https://www.whatif-france.fr/"
-  img: "logos/whatif.png"
-  bg_color: "#ffffff"
-  txt_color: "#ffffff"
-  tags: ["favoris"] 
 
 -
   name: "Mindmaster 2024"
