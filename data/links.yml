@@ -238,3 +238,10 @@ tiles:
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["titans"] 
+-
+  name: "Box Placement "
+  url: "https://operations.stellium.fr/operations"
+  img: "logos/boxplacement.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["titans"] 
