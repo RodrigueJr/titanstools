@@ -132,7 +132,7 @@ tiles:
   tags: ["agregateur"]
 -
   name: "Top Invest"
-  url: "https://immoshop.stellium.fr/topinvest?page=topinvest"
+  url: "https://monespaceidimmo.fr/"
   img: "logos/topinvest.png"
   tags: ["immobilier"]
 -
@@ -167,6 +167,13 @@ tiles:
   bg_color: "#ffffff"
   txt_color: "#000000"
   tags: ["favoris"]
+-
+  name: "Box Placement "
+  url: "https://operations.stellium.fr/operations"
+  img: "logos/boxplacement.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["titans"] 
 -
   name: "E-PBS"
   url: "https://www.formation.prodemial-business-school.com/my/"
@@ -238,10 +245,4 @@ tiles:
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["titans"] 
--
-  name: "Box Placement "
-  url: "https://operations.stellium.fr/operations"
-  img: "logos/boxplacement.svg"
-  bg_color: "#ffffff"
-  txt_color: "#ffffff"
-  tags: ["titans"] 
+
