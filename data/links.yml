@@ -7,6 +7,13 @@ tiles:
   img: "logos/defidev.png"
   tags: ["favoris"]
 -
+  name: "Box Placement "
+  url: "https://operations.stellium.fr/operations"
+  img: "logos/boxplacement.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["titans"] 
+-
   name: "My Prodemial"
   url: "http://my.prodemial.fr/"
   img: "logos/myprodemial.png"
@@ -167,13 +174,6 @@ tiles:
   bg_color: "#ffffff"
   txt_color: "#000000"
   tags: ["favoris"]
--
-  name: "Box Placement "
-  url: "https://operations.stellium.fr/operations"
-  img: "logos/boxplacement.svg"
-  bg_color: "#ffffff"
-  txt_color: "#ffffff"
-  tags: ["titans"] 
 -
   name: "E-PBS"
   url: "https://www.formation.prodemial-business-school.com/my/"
