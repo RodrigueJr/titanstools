@@ -246,7 +246,7 @@ tiles:
   txt_color: "#ffffff"
   tags: ["titans"] 
 -
-  name: "Déclarer SOn activité d'agent Co"
+  name: "Déclarer Son activité d\'agent Co"
   url: "https://vimeo.com/1024662016/d5ee0701c3"
   img: "logos/agentco.png"
   bg_color: "#ffffff"
