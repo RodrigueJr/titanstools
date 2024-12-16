@@ -61,7 +61,7 @@ tiles:
 -
   name: "PickStell 3.0"
   url: "https://pickstell3.link-app.immo/login"
-  img: "logos/picking.png"
+  img: "logos/pickstell3.png"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["immobilier"]
