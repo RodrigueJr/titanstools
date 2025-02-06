@@ -207,6 +207,11 @@ tiles:
   img: "logos/alderan.png"
   tags: ["finance"] 
 -
+  name: "Osmo"
+  url: "https://app.osmo-energie.com/login"
+  img: "logos/osmo.svg"
+  tags: ["finance"] 
+-
   name: "URBAN PREMIUM"
   url: "http://www.urban-premium.com/professionnels/devenir-partenaires/"
   img: "logos/urbanpremium.png"
