@@ -237,13 +237,6 @@ tiles:
   img: "logos/uniflowonline.png"
   tags: ["titans"]  
 -
-  name: "Conférences LGH"
-  url: "https://docs.google.com/spreadsheets/d/1eWjfwW64Kc3_nFLQ_ZhPFJd7ceHbgUcJLVOdGwJKONY/edit#gid=0"
-  img: "logos/LGH.jpeg"
-  bg_color: "#ffffff"
-  txt_color: "#ffffff"
-  tags: ["titans"] 
--
   name: "Lien Q -ESP Numérique "
   url: "https://forms.office.com/Pages/ShareFormPage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__jNcgZBUOVZUQzhRRTY4TTJOUkdCOVVVMFdVT1ExMS4u&sharetoken=Xye1BHnGzMOXmgyXnwLU"
   img: "logos/esp.png"
