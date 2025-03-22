@@ -264,4 +264,11 @@ tiles:
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["titans"] 
+-
+  name: "Simulateur SCPI Cash (Bêta)"
+  url: "https://claude.site/artifacts/1a1fd617-4de7-48b1-b7e2-828ea8b608a2"
+  img: "logos/scpi.psvg"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["titans"] 
 
