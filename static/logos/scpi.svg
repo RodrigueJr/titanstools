@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <!-- Fond -->
+  <rect width="800" height="500" fill="#f8f9fa"/>
+  
+  <!-- Titre -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#2c3e50">Simulateur d'Investissement SCPI</text>
+  
+  <!-- Graphique d'évolution -->
+  <g transform="translate(50, 100)">
+    <!-- Axes -->
+    <line x1="0" y1="250" x2="400" y2="250" stroke="#2c3e50" stroke-width="2"/>
+    <line x1="0" y1="250" x2="0" y2="50" stroke="#2c3e50" stroke-width="2"/>
+    
+    <!-- Étiquettes des axes -->
+    <text x="200" y="280" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#2c3e50">Années</text>
+    <text x="-30" y="150" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" transform="rotate(-90 -30 150)" fill="#2c3e50">Valeur (€)</text>
+    
+    <!-- Phase d'investissement actif (zone ombrée) -->
+    <rect x="0" y="50" width="200" height="200" fill="#3498db" opacity="0.1"/>
+    <text x="100" y="70" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#3498db">Phase d'investissement actif</text>
+    
+    <!-- Phase de capitalisation passive (zone ombrée) -->
+    <rect x="200" y="50" width="200" height="200" fill="#2ecc71" opacity="0.1"/>
+    <text x="300" y="70" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#2ecc71">Phase de capitalisation passive</text>
+    
+    <!-- Lignes de grille -->
+    <g stroke="#ddd" stroke-dasharray="2,2">
+      <line x1="0" y1="200" x2="400" y2="200"/>
+      <line x1="0" y1="150" x2="400" y2="150"/>
+      <line x1="0" y1="100" x2="400" y2="100"/>
+      <line x1="100" y1="50" x2="100" y2="250"/>
+      <line x1="200" y1="50" x2="200" y2="250"/>
+      <line x1="300" y1="50" x2="300" y2="250"/>
+    </g>
+    
+    <!-- Courbes -->
+    <polyline points="0,250 50,240 100,220 150,190 200,150 250,120 300,90 350,60 400,30" fill="none" stroke="#3498db" stroke-width="3"/>
+    <text x="400" y="30" font-family="Arial, sans-serif" font-size="12" fill="#3498db">Valeur du patrimoine</text>
+    
+    <polyline points="0,250 50,245 100,240 150,230 200,220 250,220 300,220 350,220 400,220" fill="none" stroke="#8e44ad" stroke-width="3"/>
+    <text x="400" y="220" font-family="Arial, sans-serif" font-size="12" fill="#8e44ad">Capital investi</text>
+    
+    <polyline points="0,250 50,248 100,245 150,240 200,230 250,215 300,190 350,160 400,130" fill="none" stroke="#2ecc71" stroke-width="3" stroke-dasharray="5,2"/>
+    <text x="400" y="130" font-family="Arial, sans-serif" font-size="12" fill="#2ecc71">Revenus cumulés</text>
+  </g>
+  
+  <!-- Illustration des immeubles (SCPI) -->
+  <g transform="translate(550, 150)">
+    <!-- Immeuble principal -->
+    <rect x="30" y="70" width="80" height="130" fill="#3498db" rx="2"/>
+    <rect x="40" y="80" width="15" height="20" fill="#ecf0f1"/>
+    <rect x="65" y="80" width="15" height="20" fill="#ecf0f1"/>
+    <rect x="85" y="80" width="15" height="20" fill="#ecf0f1"/>
+    <rect x="40" y="110" width="15" height="20" fill="#ecf0f1"/>
+    <rect x="65" y="110" width="15" height="20" fill="#ecf0f1"/>
+    <rect x="85" y="110" width="15" height="20" fill="#ecf0f1"/>
+    <rect x="40" y="140" width="15" height="20" fill="#ecf0f1"/>
+    <rect x="65" y="140" width="15" height="20" fill="#ecf0f1"/>
+    <rect x="85" y="140" width="15" height="20" fill="#ecf0f1"/>
+    <rect x="65" y="170" width="15" height="30" fill="#34495e"/>
+    
+    <!-- Immeuble secondaire gauche -->
+    <rect x="0" y="100" width="60" height="100" fill="#2ecc71" rx="2"/>
+    <rect x="10" y="110" width="10" height="15" fill="#ecf0f1"/>
+    <rect x="30" y="110" width="10" height="15" fill="#ecf0f1"/>
+    <rect x="10" y="135" width="10" height="15" fill="#ecf0f1"/>
+    <rect x="30" y="135" width="10" height="15" fill="#ecf0f1"/>
+    <rect x="10" y="160" width="10" height="15" fill="#ecf0f1"/>
+    <rect x="30" y="160" width="10" height="15" fill="#ecf0f1"/>
+    <rect x="25" y="185" width="10" height="15" fill="#34495e"/>
+    
+    <!-- Immeuble secondaire droite -->
+    <rect x="140" y="120" width="50" height="80" fill="#e74c3c" rx="2"/>
+    <rect x="150" y="130" width="10" height="15" fill="#ecf0f1"/>
+    <rect x="170" y="130" width="10" height="15" fill="#ecf0f1"/>
+    <rect x="150" y="155" width="10" height="15" fill="#ecf0f1"/>
+    <rect x="170" y="155" width="10" height="15" fill="#ecf0f1"/>
+    <rect x="160" y="180" width="10" height="20" fill="#34495e"/>
+    
+    <!-- Symbole €  -->
+    <circle cx="120" cy="50" r="30" fill="#f1c40f"/>
+    <text x="120" y="58" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#2c3e50">€</text>
+  </g>
+  
+  <!-- Phases d'investissement -->
+  <g transform="translate(50, 380)">
+    <rect x="0" y="0" width="330" height="80" rx="5" fill="#f5f5f5" stroke="#ddd"/>
+    
+    <!-- Phase 1 -->
+    <circle cx="30" cy="30" r="20" fill="#3498db"/>
+    <text x="30" y="35" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">1</text>
+    <text x="110" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Investissement actif</text>
+    <text x="110" y="45" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">Versements réguliers</text>
+    
+    <!-- Flèche -->
+    <line x1="170" y1="30" x2="190" y2="30" stroke="#2c3e50" stroke-width="2"/>
+    <polygon points="190,30 185,25 185,35" fill="#2c3e50"/>
+    
+    <!-- Phase 2 -->
+    <circle cx="220" cy="30" r="20" fill="#2ecc71"/>
+    <text x="220" y="35" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">2</text>
+    <text x="300" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2c3e50">Capitalisation passive</text>
+    <text x="300" y="45" font-family="Arial, sans-serif" font-size="12" fill="#7f8c8d">Perception des revenus</text>
+  </g>
+  
+  <!-- Délai de jouissance -->
+  <g transform="translate(410, 380)">
+    <rect x="0" y="0" width="330" height="80" rx="5" fill="#f5f5f5" stroke="#ddd"/>
+    
+    <text x="165" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2c3e50">Délai de jouissance</text>
+    
+    <!-- Timeline -->
+    <line x1="50" y1="50" x2="280" y2="50" stroke="#7f8c8d" stroke-width="2"/>
+    <circle cx="50" cy="50" r="5" fill="#e74c3c"/>
+    <text x="50" y="65" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#7f8c8d">Achat</text>
+    
+    <circle cx="280" cy="50" r="5" fill="#2ecc71"/>
+    <text x="280" y="65" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#7f8c8d">Premiers revenus</text>
+    
+    <!-- Fleche de délai -->
+    <line x1="70" y1="40" x2="260" y2="40" stroke="#e74c3c" stroke-width="1" stroke-dasharray="3,3"/>
+    <polygon points="260,40 255,35 255,45" fill="#e74c3c"/>
+    <text x="165" y="35" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#e74c3c">3-6 mois</text>
+  </g>
+</svg>
