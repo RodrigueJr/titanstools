@@ -14,20 +14,6 @@ tiles:
   txt_color: "#ffffff"
   tags: ["titans"] 
 -
-  name: "Fast Invest"
-  url: "https://fastinvest.finzzle-groupe.com/"
-  img: "logos/FastInvest.svg"
-  bg_color: "#ffffff"
-  txt_color: "#ffffff"
-  tags: ["titans"] 
--
-  name: "Fast Track"
-  url: "https://fasttrack.finzzle-groupe.com/"
-  img: "logos/FastTrack.svg"
-  bg_color: "#ffffff"
-  txt_color: "#ffffff"
-  tags: ["titans"] 
--
   name: "My Prodemial"
   url: "http://my.prodemial.fr/"
   img: "logos/myprodemial.png"
