@@ -101,18 +101,17 @@ tiles:
   bg_color: "#ffffff"
   txt_color: "#000000"
   tags: ["finance"]
-  
--
-  name: "Cristalliance Opportunités"
-  url: "https://cgp-stellium.oddo-bhf.com/"
-  img: "logos/Cristalliance_Opportunites.png"
-  bg_color: "#ffffff"
-  txt_color: "#000000"
-  tags: ["finance"]
 -
   name: "Cristalliance Evoluvie"
   url: "https://stellium.avepargne.fr/perte?p_p_id=58&p_p_lifecycle=0&_58_redirect=%2Fchoix-souscription-cristalliance-evoluvie"
   img: "logos/evoluvie.png"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["finance"]
+-
+  name: "Cristalliance Opportunités"
+  url: "https://cgp-stellium.oddo-bhf.com/"
+  img: "logos/Cristalliance_Opportunites.png"
   bg_color: "#ffffff"
   txt_color: "#000000"
   tags: ["finance"]
