@@ -29,9 +29,16 @@ tiles:
   img: "logos/jump.png"
   tags: ["favoris"]
 -
-  name: "Drive"
+  name: "Drive LGH"
   url: "https://drive.google.com/drive/u/1/folders/1dpBenwNl9bex4CWMqryB_F8AoqG_gHxa"
   img: "logos/drive.png"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["titans"]
+-
+  name: "Drive Kyojin"
+  url: "https://drive.google.com/drive/folders/1R5rhYUaV8zuBpV7E2aw7A55XfL9tWNG_?usp=sharing"
+  img: "logos/drive_kyojin.png"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["titans"]
