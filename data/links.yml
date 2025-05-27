@@ -14,6 +14,13 @@ tiles:
   txt_color: "#ffffff"
   tags: ["titans"] 
 -
+  name: "Conseil Placement "
+  url: "https://conseil.stellium.fr/"
+  img: "logos/conseil_placement.png"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["titans"] 
+-
   name: "My Prodemial"
   url: "http://my.prodemial.fr/"
   img: "logos/myprodemial.png"
