@@ -218,15 +218,10 @@ tiles:
   img: "logos/perl.svg"
   tags: ["immobilier"]  
 -
-  name: "NORMA CAPITAL !!NEW!!"
+  name: "NORMA CAPITAL"
   url: "https://monespace.normacapital.fr/"
   img: "logos/logo_norma.png"
   tags: ["finance"]
-
-- name: "NORMA CAPITAL"
-  url: "https://normacapital.mipise.fr/fr/users/sign_in"
-  img: "logos/normacapital.jpg"
-  tags: ["finance"]  
 -
   name: "Atland Voisin"
   url: "https://extranet.atland-voisin.com/login"
