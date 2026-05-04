@@ -169,6 +169,12 @@ tiles:
   img: "logos/topinvest.png"
   tags: ["immobilier"]
 -
+  name: "April"
+  url: "https://www.april-on.fr/"
+  img: "logos/april.svg"
+  tags: ["finance"]
+ 
+-
   name: "Optimiz AV"
   url: "https://simulateurs.plpsoft.com/Stellium/assurancevie/"
   img: "logos/optimiz_av.png"
