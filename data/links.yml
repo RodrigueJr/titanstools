@@ -2,10 +2,16 @@ tiles:
 
 
 -
-  name: "Les JD LGH t "
+  name: "Tunnel de Démarrage"
+  url: "https://www.billetweb.fr/tunnel-de-demarrage-2026"
+  img: "logos/tdd.png"
+  tags: ["favoris"]
+-
+  name: "Les JD LGH"
   url: "https://www.billetweb.fr/decouverte-metier-conseil-patrimonial"
   img: "logos/jd_lgh.png"
   tags: ["favoris"]
+
 -
   name: "Proxee "
   url: "https://proxee.finzzle-groupe.com/"
