@@ -170,6 +170,14 @@ tiles:
   txt_color: "#000000"
   tags: ["agregateur"]
 -
+  name: "Simulateur Immo PTZ - AL"
+  url: "https://simulateurimmo-ptz-al.netlify.app/"
+  img: "logos/ptz.png"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["agregateur"]
+  
+-
   name: "Top Invest"
   url: "https://monespaceidimmo.fr/"
   img: "logos/topinvest.png"
