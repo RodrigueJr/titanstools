@@ -2,7 +2,7 @@ tiles:
 
 
 -
-  name: "Tunnel de Démarrage"
+  name: "Tunnel de Démarrage KYOJIN"
   url: "https://www.billetweb.fr/tunnel-de-demarrage-2026"
   img: "logos/tdd.png"
   tags: ["favoris"]
