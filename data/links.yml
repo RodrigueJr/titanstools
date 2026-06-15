@@ -13,6 +13,11 @@ tiles:
   tags: ["favoris"]
 
 -
+  name: "Proxeema"
+  url: "https://proxeema.finzzle-groupe.com"
+  img: "logos/proxeema.svg"
+  tags: ["favoris"]
+-
   name: "Proxee "
   url: "https://proxee.finzzle-groupe.com/"
   img: "logos/logo_proxee.svg"
@@ -36,11 +41,7 @@ tiles:
   url: "http://my.prodemial.fr/"
   img: "logos/myprodemial.png"
   tags: ["favoris"]
--
-  name: "Ariane"
-  url: "https://my.prodemial.fr/investisseurs/ariane"
-  img: "logos/ariane.png"
-  tags: ["favoris"]
+
 -
   name: "JUMP"
   url: "https://jump.prodemial.fr/"
@@ -302,4 +303,8 @@ tiles:
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["titans"] 
-
+-
+  name: "Ariane"
+  url: "https://my.prodemial.fr/investisseurs/ariane"
+  img: "logos/ariane.png"
+  tags: ["favoris"]
