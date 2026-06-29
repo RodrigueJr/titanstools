@@ -4,7 +4,7 @@ tiles:
 -
   name: "Académie KYOJIN"
   url: "https://kyojin-academie.netlify.app/"
-  img: "logos/ka.svg"
+  img: "logos/ka2.svg"
   bg_color: "#f5f7f7"
   tags: ["favoris"]
 -
