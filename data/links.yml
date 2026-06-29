@@ -2,9 +2,9 @@ tiles:
 
 
 -
-  name: "KYOJIN - Tunnel de Démarrage"
-  url: "https://www.billetweb.fr/tunnel-de-demarrage-2026"
-  img: "logos/tdd.png"
+  name: "Académie KYOJIN"
+  url: "https://kyojin-academie.netlify.app/"
+  img: "logos/ka.png"
   tags: ["favoris"]
 -
   name: "Les JD LGH"
