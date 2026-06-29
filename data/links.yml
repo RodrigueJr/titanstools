@@ -5,7 +5,7 @@ tiles:
   name: "Académie KYOJIN"
   url: "https://kyojin-academie.netlify.app/"
   img: "logos/ka2.png"
-  bg_color: "#f20707"
+  bg_color: "#f5f7f7"
   tags: ["favoris"]
 -
   name: "Les JD LGH"
