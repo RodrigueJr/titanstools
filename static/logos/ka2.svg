@@ -1,0 +1,29 @@
+<svg width="400" height="80" viewBox="0 0 400 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Badge 64×64, centré verticalement -->
+  <rect x="0" y="8" width="64" height="64" rx="14" fill="#e8192c"/>
+  <rect x="0" y="8" width="64" height="20" rx="14" fill="white" opacity="0.07"/>
+
+  <!-- K — stem -->
+  <rect x="17" y="20" width="8" height="40" rx="2.5" fill="white"/>
+  <!-- K — top arm -->
+  <polygon points="25,38  46,20  53,20  53,27  27,41" fill="white"/>
+  <!-- K — bottom arm -->
+  <polygon points="25,42  52,62  45,62  25,46" fill="white"/>
+  <!-- accent dot -->
+  <circle cx="56" cy="60" r="3" fill="white" opacity="0.3"/>
+
+  <!-- Séparateur vertical -->
+  <line x1="80" y1="18" x2="80" y2="62" stroke="#e0e0e0" stroke-width="1"/>
+
+  <!-- Wordmark -->
+  <text x="92" y="47"
+    font-family="'Arial Black', 'Helvetica Neue', sans-serif"
+    font-size="30" font-weight="900"
+    fill="#111318" letter-spacing="-0.5">KYOJIN</text>
+
+  <!-- Sous-titre -->
+  <text x="94" y="63"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="9.5" font-weight="400"
+    fill="#8a8f9a" letter-spacing="5">ACADÉMIE</text>
+</svg>
