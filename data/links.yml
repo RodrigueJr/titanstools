@@ -289,8 +289,3 @@ tiles:
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["titans"] 
--
-  name: "Ariane"
-  url: "https://my.prodemial.fr/investisseurs/ariane"
-  img: "logos/ariane.png"
-  tags: ["favoris"]
