@@ -2,6 +2,12 @@ tiles:
 
 
 -
+  name: "Rentrée Commerciale LGH"
+  url: "https://www.billetweb.fr/rentree-commerciale-lgh"
+  img: "logos/rentree-commerciale-lgh.jpeg"
+  bg_color: "#f5f7f7"
+  tags: ["favoris"]
+-
   name: "Académie KYOJIN"
   url: "https://kyojin-academie.netlify.app/"
   img: "logos/ka2.svg"
