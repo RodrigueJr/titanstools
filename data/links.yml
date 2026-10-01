@@ -69,13 +69,6 @@ tiles:
   txt_color: "#ffffff"
   tags: ["titans"]
 -
-  name: "Trello"
-  url: "https://trello.com/b/lcUgmb25/cgpi-on-board-titans"
-  img: "logos/trello.png"
-  bg_color: "#ffffff"
-  txt_color: "#ffffff"
-  tags: ["titans"]
--
   name: "Immoshop"
   url: "https://immoshop.stellium.fr/"
   img: "logos/stock.png"
@@ -215,8 +208,8 @@ tiles:
   tags: ["favoris"]
 -
   name: "Inter Invest"
-  url: "https://connexion.inter-invest.fr/realms/interinvest-partenaires/protocol/openid-connect/auth?state=a60dba0a48ec7068eb8ed38fdb95b6d4&scope=profile%20email%20openid&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fwww.inter-invest.fr%2Fconnexion-key-cloak%3Frealms%3Dinterinvest-partenaires&client_id=client_auth"
-  img: "logos/logo_interinvest_white.svg"
+  url: "https://portal-partner.elvest.fr/"
+  img: "logos/elvest.jpg"
   tags: ["finance"]
 -
   name: "PERL"
