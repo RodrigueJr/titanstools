@@ -4,7 +4,7 @@ tiles:
 -
   name: "Shanghai 2027"
   url: "https://my.prodemial.fr/developpement-animation/incentive/ambition-galaxie"
-  img: "logos/shangai2.png"
+  img: "logos/shangai.png"
   bg_color: "#f5f7f7"
   tags: ["favoris"]
 -
@@ -22,7 +22,7 @@ tiles:
 -
   name: "Proxeema"
   url: "https://proxeema.finzzle-groupe.com"
-  img: "logos/proxeema.png"
+  img: "logos/proxeema2.png"
   tags: ["favoris"]
 -
   name: "Proxee "
