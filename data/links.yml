@@ -1,5 +1,11 @@
 tiles:
 
+-
+  name: "La Chronique LGH"
+  url: "https://claude.ai/artifact/PK94Eiyv4RJcJkrYwHPcz4"
+  img: "logos/chronique-banniere.png"
+  bg_color: "#f5f7f7"
+  tags: ["favoris"]
 
 -
   name: "Shanghai 2027"
