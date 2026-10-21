@@ -8,6 +8,13 @@ tiles:
   tags: ["favoris"]
 
 -
+  name: "Ressources WHAT IF"
+  url: "https://what-if-exp.netlify.app/"
+  img: "logos/whatif.jpg"
+  bg_color: "#f5f7f7"
+  tags: ["favoris"]
+
+-
   name: "Shanghai 2027"
   url: "https://my.prodemial.fr/developpement-animation/incentive/ambition-galaxie"
   img: "logos/shanghai.png"
